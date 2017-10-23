@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\bin\Debug\K_Mean_ChuVietTay.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\bin\Debug\K_Mean_ChuVietTay.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\bin\Debug\K_Mean_ChuVietTay.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\obj\Debug\K_Mean_ChuVietTay.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\obj\Debug\K_Mean_ChuVietTay.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\obj\Debug\K_Mean_ChuVietTay.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\obj\Debug\K_Mean_ChuVietTay.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\obj\Debug\K_Mean_ChuVietTay.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\obj\Debug\K_Mean_ChuVietTay.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\bin\Debug\KMeans.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\K_Mean_ChuVietTay\bin\Debug\KMeans.pdb

@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\KMeans\bin\Debug\KMeans.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\KMeans\bin\Debug\KMeans.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\KMeans\obj\Debug\KMeans.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\KMeans\obj\Debug\KMeans.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\K_Mean_ChuVietTay\KMeans\obj\Debug\KMeans.pdb
